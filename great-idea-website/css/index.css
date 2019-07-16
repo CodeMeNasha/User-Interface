@@ -64,3 +64,44 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav {
+	display: inline-block;
+}
+
+.third-row section{
+	display: inline-block;
+	width: 40%;
+}
+
+
+h5 {
+	display: inline;
+	margin: 5%;
+}
+
+p {
+	display: inline-block;
+}
+
+.bottom-three section {
+	display: inline-block;
+	width: 20%;
+}
+
+.first-row a {
+	margin: 25px;
+}
+
+.third-row p {
+	width: 65%;
+	margin: 5%;
+}
+
+.logo {
+	margin-left: 5%;
+}
+
+.innovation-header {
+	
+}
