@@ -102,6 +102,54 @@ p {
 	margin-left: 5%;
 }
 
-.innovation-header {
+.second-row {
+	display: inline-block;
+	position: relative;
+	top: 100px;
 	
+}
+
+.innovation-header {
+	font-size: 65px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.logo-header {
+	display: inline-block;
+	position: relative;
+	left: 115px;
+	top: 140px;
+}
+
+.circle-logo {
+	position: relative;
+	left: 500px;
+	bottom: 180px;
+}
+
+.started {
+	position: relative;
+	left: 70px;
+	padding: 2px 35px 2px 35px;
+	border: 1px solid black;
+}
+
+.third-row {
+	border-top: 1px solid black;
+}
+
+.bottom-three {
+	margin-left: 20px;
+	padding-bottom: 50px;
+	border-bottom: 1px solid black;
+}
+
+
+footer h5 {
+	margin: 2%;
+}
+
+.copy {
+	margin: 2px 500px 2px;
 }
